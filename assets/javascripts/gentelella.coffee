@@ -4,7 +4,6 @@
 #= require bootstrap-progressbar
 #= require daterangepicker
 #= require nprogress
-#= require jquery.vmap.js
 #= require fastclick
 #= require gauge
 #= require skycons
