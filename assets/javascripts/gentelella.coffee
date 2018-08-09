@@ -5,7 +5,6 @@
 #= require moment-with-locales.js
 #= require daterangepicker
 #= require nprogress
-#= require icheck
 #= require jquery.vmap.js
 #= require fastclick
 #= require Chart.min
