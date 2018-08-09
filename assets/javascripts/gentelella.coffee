@@ -19,7 +19,6 @@
 #= require jszip
 #= require pdfmake
 #= require vfs_fonts
-#= require fullcalendar
 #= require raphael
 #= require morris
 #= require jquery.mCustomScrollbar
