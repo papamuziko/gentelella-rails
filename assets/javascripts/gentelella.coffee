@@ -7,7 +7,6 @@
 #= require fastclick
 #= require gauge
 #= require skycons
-#= require date
 #= require jquery.sparkline
 #= require jquery.hotkeys
 #= require jquery.tagsinput
