@@ -8,21 +8,14 @@ My goal in building this gem was to learn:
   * package up only the files needed for the gem to function in production
   * load everything up with just one or two requires in the Rails app that uses it
 
-Beware that this gem furnishes a fairly comprehensive theme and pulls in *many* other libraries such as:
+[UPDATE] From [mwlang/gentelella-rails](https://github.com/mwlang/gentelella-rails), I removed some dependencies that I was not using to speedup the assets precompile
 
   * jquery and jquery_ujs
   * bootstrap-sass and font-awesome-sass
-  * icheck
   * nprogress
-  * moment JS
   * bootstrap date range picker
   * fastclick
-  * ChartJS
-  * jquery Flot
   * DateJS
-  * Switchery
-  * Select2
-  * Parsley JS
 
 Where possible, I utilized well-maintained Rails gems for the above.  However, if the gems were
 out of date, I utilized the Bower supplied version.
